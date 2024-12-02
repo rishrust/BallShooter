@@ -1,6 +1,7 @@
+﻿
+Most Logic is Commented
 
-everything is commented
-
-particel system is pretty broken 
+particle system is pretty weak
 but works)))
-use build .sh to work with
+use build .sh to  compile
+

@@ -1,0 +1,1 @@
+g++ main.cpp -o main.o -lsfml-graphics -lsfml-window -lsfml-system   > out 2>logs.txt  && ./main.o && rm main.o 

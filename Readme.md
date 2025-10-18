@@ -2,6 +2,6 @@
 Most Logic is Commented
 
 particle system is pretty weak
-but works)))
+but works :)
 use build .sh to  compile
 ![](https://github.com/rishrust/BallShooter/blob/main/demo.gif)
